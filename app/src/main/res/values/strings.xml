@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PKart admin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="upload_category">Upload Category</string>
+    <string name="category_name">Category name</string>
+</resources>
